@@ -1,0 +1,20 @@
+{
+  "name": "parouimpar",
+  "version": "1.0.0",
+  "description": "Verifica se um número é par ou impar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lógica",
+    "par",
+    "impar",
+    "programamodotexto"
+  ],
+  "author": "Danilo Filitto",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
